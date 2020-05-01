@@ -1,9 +1,10 @@
 # hello-world
 hello world repository
 bonjour mon nom est amar
-je commence a apprendre git
+je commence a apprendre GIT
 sdfsdfdfgdg
 drfdrfg
 drfrf
-rf
-srfr
+AAAAAAAAAAAAAAAAAAAAAAA
+BBBBBBBBBBBBBBBBBB
+CCCCCCCCCCCCCCCC
